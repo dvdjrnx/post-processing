@@ -1,6 +1,6 @@
 # Post-processing
 
-![A ball and cube sit on a green plane, distorted in a drunken wave view.](./public/post-processing.png)
+![A ball and cube sit on a green plane, distorted in a drunken wave view.](./public/post-processing.jpg)
 
 This project explores post-processing in a 3D scene, allowing users to dynamically adjust the intensity of an animated, drunken wave effect applied over top of a simple scene. It was created with Three.js and React Three Fiber.
 
