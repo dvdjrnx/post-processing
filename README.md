@@ -12,7 +12,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 ## Live demo
 
-A running demo of the project can be viewed at https://dvdjrnx.github.io/model-animations
+A running demo of the project can be viewed at https://dvdjrnx.github.io/post-processing
 
 ## Local development
 
